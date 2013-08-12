@@ -1,0 +1,4 @@
+daltonization
+=============
+
+Python daltonization module
